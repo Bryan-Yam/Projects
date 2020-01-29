@@ -1,0 +1,4 @@
+Adam, 20
+Becky, 40
+David, 60
+Cheryl, 10000
